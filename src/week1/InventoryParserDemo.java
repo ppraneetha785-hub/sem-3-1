@@ -1,4 +1,4 @@
-package week2;
+package week1;
 
 public class InventoryParserDemo {
     static void parseInventoryRecord(String csvLine) {

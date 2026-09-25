@@ -1,4 +1,4 @@
-package week2;
+package week1;
 
 public class WordReversalDemo {
     static String reverseEachWord(String sentence) {
