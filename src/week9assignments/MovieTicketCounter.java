@@ -1,4 +1,4 @@
-package week9;
+package week9assignments;
 import java.util.*;
 
 abstract class Ticket{
